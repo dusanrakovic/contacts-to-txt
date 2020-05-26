@@ -6,7 +6,7 @@ use contact information on my desktop computer. I've planned to add some more ca
 export formats (csv, json...), and proper GUI, but didn't have spare time to do it. Well, soon maybe...
 
 Code is written in Python 3 and don't use external libraries. It works with UTF-8 encoded .vcfs, more precisely
-with Serbian latin alphabet.
+with Serbian Latin alphabet.
 
 I include two sample files in this repository:
 - PIM00001.vcf (small sample file backed up from Contacts app), which looks like this:
